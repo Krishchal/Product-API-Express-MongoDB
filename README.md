@@ -100,20 +100,20 @@ company: String (Enum: "Apple", "Samsung", "Dell", "Mi")
 
 File Structure
 
-
-├── app.js
-├── controllers
-│   └── products.js
-├── db
-│   └── connect.js
-├── models
-│   └── product.js
-├── routes
-│   └── products.js
-├── products.json
-├── productDB.js
-├── .env
-└── package.json
+      
+      ├── app.js
+      ├── controllers
+      │   └── products.js
+      ├── db
+      │   └── connect.js
+      ├── models
+      │   └── product.js
+      ├── routes
+      │   └── products.js
+      ├── products.json
+      ├── productDB.js
+      ├── .env
+      └── package.json
 
 
 
