@@ -1,0 +1,121 @@
+[
+    {
+      "name": "iPhone 15",
+      "price": 999,
+      "feature": true,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy S23", 
+      "price": 849,
+      "feature": false,
+      "company": "Samsung"
+    },
+    {
+      "name": "Redmi Note 12",
+      "price": 299,
+      "feature": true,
+      "company": "Mi"
+    },
+    {
+      "name": "XPS 13",
+      "price": 1199,
+      "company": "Dell"
+    },
+    {
+      "name": "MacBook Pro",
+      "price": 2499,
+      "feature": true,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy Tab S8",
+      "price": 699,
+      "company": "Samsung"
+    },
+    {
+      "name": "Mi Pad 5",
+      "price": 429,
+      "feature": true,
+      "company": "Mi"
+    },
+    {
+      "name": "Inspiron 15",
+      "price": 749,
+      "feature": false,
+      "company": "Dell"
+    },
+    {
+      "name": "iPhone SE",
+      "price": 399,
+      "feature": false,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy A54",
+      "price": 449,
+      "feature": true,
+      "company": "Samsung"
+    },
+    {
+      "name": "Redmi K40",
+      "price": 379,
+      "feature": true,
+      "company": "Mi"
+    },
+    {
+      "name": "Latitude 7420",
+      "price": 1299,
+      "feature": true,
+      "company": "Dell"
+    },
+    {
+      "name": "MacBook Air",
+      "price": 1099,
+      "feature": true,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy Z Fold 5",
+      "price": 1799,
+      "feature": true,
+      "company": "Samsung"
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "price": 749,
+      "feature": true,
+      "company": "Mi"
+    },
+    {
+      "name": "Alienware m15",
+      "price": 1999,
+      "feature": true,
+      "company": "Dell"
+    },
+    {
+      "name": "iPad Pro",
+      "price": 1099,
+      "feature": true,
+      "company": "Apple"
+    },
+    {
+      "name": "Galaxy Watch 6",
+      "price": 349,
+      "feature": false,
+      "company": "Samsung"
+    },
+    {
+      "name": "Mi Smart Band 6",
+      "price": 49,
+      "feature": true,
+      "company": "Mi"
+    },
+    {
+      "name": "Dell G5 15",
+      "price": 849,
+      "feature": true,
+      "company": "Dell"
+    }
+  ]
+  
