@@ -1,9 +1,9 @@
 # Product API with Express and MongoDB
 
-This is a RESTful API built using **Node.js**, **Express.js**, and **MongoDB**. The API allows querying, filtering, and sorting products from the database, 
+This is a RESTful API built using **Node.js**, **Express.js**, and **MongoDB**. The API allows querying, filtering, and sorting products from the database,  
 and provides different routes to interact with product data.
 
-## Features
+## Features.
 
 - **GET** all products
 - Query products by `name`, `company`, and `featured`
