@@ -7,7 +7,7 @@ const connectDB = require("./db/connect");
 const PORT = process.env.PORT || 3003 ;
 
 app.get('/',(req,res) => {
-    res.send("i am alive");
+    res.send("server is running");
 });
 
 app.use("/api/products", products_routes);
